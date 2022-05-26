@@ -71,6 +71,7 @@
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
+    "publish": "node scripts/depoly.js",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
@@ -163,6 +164,7 @@
     "@storybook/react": "^6.5.5",
     "@storybook/testing-library": "^0.0.11",
     "@tailwindcss/typography": "^0.5.2",
-    "postcss-import": "^14.1.0"
+    "postcss-import": "^14.1.0",
+    "storybook-addon-themes": "^6.1.0"
   }
 }

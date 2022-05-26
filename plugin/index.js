@@ -11,11 +11,7 @@ module.exports = plugin(
     )
     addComponents(viStylesComponents)
   },
-  // {
-  //   theme: {
-  //     colors: {
-  //       'vi-select-hover': 'var(--vi-bgcolor)'
-  //     }
-  //   }
-  // }
+  {
+    theme: {}
+  }
 )

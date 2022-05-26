@@ -1,4 +1,4 @@
-import { CustomSlider } from './components/PlayGround/CustomSlider';
+import { CustomSlider } from './components/Slider/CustomSlider';
 import { StyledEngineProvider } from '@mui/material'
 import './App.css';
 
